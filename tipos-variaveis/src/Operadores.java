@@ -3,5 +3,15 @@ public class Operadores {
         String nomeCompleto = "Linguagem" + "Java";
 
         System.out.println(nomeCompleto);
+
+        int numero = 5;
+
+        numero = - numero;
+
+        System.out.println(numero);
+
+        numero = numero * -1;
+
+        System.out.println(numero);
     }
 }
